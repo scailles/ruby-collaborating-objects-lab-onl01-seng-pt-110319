@@ -19,5 +19,7 @@ class Artist
   end
 
   def self.songs
+    print songs
+  end
   
 end
