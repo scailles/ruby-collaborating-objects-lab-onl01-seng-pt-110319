@@ -19,7 +19,7 @@ class Song
     song
   end
   
-  def artist_name
+
     
   
 end
